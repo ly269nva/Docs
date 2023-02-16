@@ -67,6 +67,9 @@
 <https://www.nruan.com/5226.html>  
 便携版：<http://googlechromedownload.cn/>
 
+官网安装包安装后，打开安装目录(chrome://version/,可查看可执行文件路径和个人资料路径)，将chrome.exe,chrome_proxy.exe和版本号文件夹打包chrome.7z(/Chrome-bin)
+
+
 ## 温馨提示
 
 涉及到的所有软件下载完成后记得检查数字签名，如果没有签名或者签名失效，请立即删除，重新去别的地方下载！！！不然本文没有意义。
