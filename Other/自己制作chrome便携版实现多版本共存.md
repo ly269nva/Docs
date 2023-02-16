@@ -61,6 +61,9 @@
 
 把`Chrome41.exe`生成一个快捷方式到桌面，多个Chrome想用哪个用哪个，本人独爱`41.0.22x`这个古董版本，因为有很多好用特性是新版本所废弃的。
 
+### 【4】下载chrome离线安装包（无更新组件）
+<https://chrome.noki.eu.org/>  
+<https://www.nruan.com/5226.html>
 
 ## 温馨提示
 
